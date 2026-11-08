@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sign Language Recognition System
 
 ## Setup
@@ -10,3 +11,7 @@ pip install -r requirements.txt
 
 ## Gestures (utils.py me GESTURES list badal ke naye add karo, phir dobara collect + train)
 Hello, Stop, Thank You, Rock, Perfect
+=======
+# Sign_Language_Recognition_System
+Real-time Sign Language Recognition System using MediaPipe hand landmarks and a CNN to classify gestures from webcam input. Built with Python and OpenCV.
+>>>>>>> 886f2e5eb994da0853523acee5c65dc791c968e5
