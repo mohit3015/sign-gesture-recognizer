@@ -1,0 +1,8 @@
+# Python 3.9 - 3.11 recommended
+opencv-python
+mediapipe==0.10.14
+tensorflow==2.15.0
+numpy<2
+matplotlib
+scikit-learn
+pyttsx3
